@@ -1,26 +1,26 @@
-# Sistema de Chamados
+# 🛠 Sistema de Chamados
 
-Um sistema de chamados simples desenvolvido em Django, destinado a gerenciar e rastrear solicitações de suporte.
+Um sistema de chamados simples desenvolvido em **Django**, destinado a gerenciar e rastrear solicitações de suporte.
 
-## Descrição
+## 📜 Descrição
 
 Este projeto foi criado como uma maneira de praticar programação e aprimorar habilidades no uso do Django. O sistema permite que os usuários criem, visualizem e gerenciem chamados, facilitando o processo de resolução de problemas.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
-- Criar novos chamados
-- Listar chamados existentes
-- Atualizar o status dos chamados
-- Interface amigável baseada em Bootstrap
+- **Criar novos chamados**
+- **Listar chamados existentes**
+- **Atualizar o status dos chamados**
+- **Interface amigável baseada em Bootstrap**
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
-- Python
-- Django
-- Bootstrap
-- HTML/CSS
+- **Python**
+- **Django**
+- **Bootstrap**
+- **HTML/CSS**
 
-## Instalação
+## 📦 Instalação
 
 1. Clone o repositório:
    ```bash
