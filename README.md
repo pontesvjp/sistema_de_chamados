@@ -24,4 +24,4 @@ Este projeto foi criado como uma maneira de praticar programação e aprimorar h
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/<username>/sistema_de_chamados.git
+   git clone https://github.com/pontesvjp/sistema_de_chamados.git
